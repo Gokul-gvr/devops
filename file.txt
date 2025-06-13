@@ -6,6 +6,4 @@ this is gokul
 =======
 Hi 11/06/2025
 >>>>>>> 89d4e20 (my second commit)
-hello jho
-
-my final commit is wrong n
+hello jhon
