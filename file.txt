@@ -9,3 +9,8 @@ Hi 11/06/2025
 hello jho
 
 my final commit is wrong n
+<<<<<<< Updated upstream
+=======
+hi this is new forma
+modufiedt
+>>>>>>> Stashed changes
